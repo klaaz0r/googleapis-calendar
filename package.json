@@ -1,7 +1,8 @@
 {
   "name": "googleapis-calendar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node google calendar API",
+  "url": "https://github.com/klaaz0r/googleapis-calendar",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

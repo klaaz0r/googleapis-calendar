@@ -1,5 +1,4 @@
 # 🗓 Google Calendar API wrapper
-## Ideal for servers
 
 A super simpel wrapper for google calendar with only `googleapis` as a dependency. List and create events, nothing more. Setup can become a bit tricky.
 You need to get the credentials file from google developers console, and add them to a service account. Once you have done that make sure your serivce account is added to the

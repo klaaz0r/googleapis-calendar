@@ -33,11 +33,11 @@ const fixedTimeEvent = {
     summary: 'Meeting about having more meetings', // 
     description: 'some description',
     start: {
-        "dateTime": '2018-04-21T12:30:47.000Z,
+        "dateTime": '2018-04-21T12:30:47.000Z',
         "timeZone": 'Europe/Amsterdam'
     },
     end: {
-        "dateTime": '2018-04-21T14:30:47.000Z,
+        "dateTime": '2018-04-21T14:30:47.000Z',
         "timeZone": 'Europe/Amsterdam'
     }
 }
